@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings! 👋
 
 - 🔭 I’m currently working on the WD000 series, capstone project (VU), Microsoft certifications and HackTheBox Labs.
 - 🌱 I’m currently learning GRC, SIEM, DevSecOps, and information security.
